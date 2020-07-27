@@ -1,2 +1,2 @@
 # Make a robot find the precious
-A simple Python game.
+A simple Python project.
